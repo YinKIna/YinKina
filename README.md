@@ -1,6 +1,5 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
 
-<h2> 嘿，你好！我是 Yinkina 真名 付胜程。</h2>
+<h2> 嘿，你好！我是 付胜程Yinkina。</h2>
 
 <h3> 👨🏻‍💻 &nbsp;关于我 </h3>
 
