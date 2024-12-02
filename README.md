@@ -5,7 +5,7 @@
 
 ### - 📫 &nbsp;如何联系我：385979379@qq.com;
 
-### - 📕&nbsp;目前研究IOS开发+Swift
+### - 📕 &nbsp;目前研究IOS开发+Swift
   
 ### - 💻 &nbsp;会使用的语言SQL+Python+Java+CSS+Javascript+
 
