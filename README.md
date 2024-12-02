@@ -9,7 +9,6 @@
 <br/>
 
 <a href="https://github.com/YinKIna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YinKina&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
 
