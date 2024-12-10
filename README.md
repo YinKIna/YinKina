@@ -12,11 +12,8 @@
 ### 我很喜欢研究
 
 ### 我的世界服务器，开发插件，机器学习、网页开发、系统设计、软件开发。
-
 <br/>
-
 <a href="https://github.com/YinKIna">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 </a>
-
 <br/>
